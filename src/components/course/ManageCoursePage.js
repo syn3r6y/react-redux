@@ -29,7 +29,7 @@ class ManageCoursePage extends React.Component {
 					onChange={this.updateCourseState}
 					course={this.state.course}
 					errors={this.state.errors}
-				/>	
+				/>
 		);
     }
 }
